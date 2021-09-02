@@ -1,21 +1,8 @@
-public  class Gerente extends  Funcionario {
-
-    private int senha;
-
-    public void setSenha(int senha) {
-        this.senha = senha;
-    }
-
-    public boolean autentica(int senha){
-        if(this.senha == senha) {
-            return true;
-        } else {
-            return false;
-        }
-    }
+public  class EditorVideo extends  Funcionario {
 
     public double getBonificacao(){
-        return super.getBonificacao() + super.getSalario();
+        System.out.println("Chamando o método de bonificação do EDITOR DE VÍDEO");
+        return 150;
     }
 
 }

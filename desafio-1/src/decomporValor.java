@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class decomporValor {
+public class decomporValor {
+    var notas
 }
