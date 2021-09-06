@@ -2,7 +2,7 @@ public class TesteFuncionario {
 
     public static void main(String[] args) {
 
-        FuncionarioAutenticavel cliente = new Cliente();
+        Cliente cliente = new Cliente();
 
         Gerente adams = new Gerente();
         adams.setNome("Adams Wildemann");

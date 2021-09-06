@@ -1,4 +1,4 @@
-public abstract class FuncionarioAutenticavel extends Funcionario {
+public class AutenticacaoUtil {
 
     private int senha;
 
@@ -6,8 +6,8 @@ public abstract class FuncionarioAutenticavel extends Funcionario {
         this.senha = senha;
     }
 
-    public boolean autentica(int senha){
-        if(this.senha == senha) {
+    public boolean autentica(int senha) {
+        if (this.senha == senha) {
             return true;
         } else {
             return false;
