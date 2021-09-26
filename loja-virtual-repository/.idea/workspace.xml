@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf149282-8a4c-41e0-94eb-19dfef30a291" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/Desafio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/out/production/Desafio2/Lampada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/out/production/Desafio2/TestaLampada.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/out/production/Desafio2/TesteColecao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/LampadaDetalhes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/Lustre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/TestaLampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/TestaLustre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio2/src/TesteColecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java8/src/OrdenaStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/CriaConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/TestaBanco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/TestaContaSemCliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/TestaMetodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitebank-encapsulado/out/production/bitebank-encapsulado/TesteSacaNegativo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/modelo/GuardadorDeContas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/modelo/GuardadorDeReferencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/test/TesteGuardador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/test/TesteGuardadorDeReferencias.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/modelo/GuardadorDeContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/modelo/GuardadorDeReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/TesteGuardador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/TesteGuardadorDeReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/util/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/util/TesteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/util/TesteArrayListEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/util/TesteOutrosWrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/test/util/TesteWrapperInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/bin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/bytebank-herdado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/ControleBonificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/EditorVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/TesteFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/TesteGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funcionario/src/TesteReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loja-virtual-repository.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CategoriaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaInsercao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaInsercaoComParametro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaInsercaoEListagemComProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaListagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaListagemDeCategorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaOperacaoComView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaPoolConexoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaRemocao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitebank-encapsulado/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bitebank-encapsulado/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitebank-encapsulado/src/TestaContaSemCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bitebank-encapsulado/src/TestaContaSemCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta-download/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/modelo/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/bin/br/com/bytebank/banco/modelo/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta-download/src/br/com/bytebank/banco/modelo/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bytebank-herdado-conta/src/Conta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yQsbUTLXGAXYxpKjg1EvYIhgw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/2108-java-testes-unitarios-tdd-projeto_inicial/2108-java-testes-unitarios-tdd-projeto_inicial" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adams.wildemann\IdeaProjects\loja-virtual-repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestaListagem">
+    <configuration name="TestaInsercao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaInsercao" />
+      <module name="loja-virtual-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaInsercaoComParametro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaInsercaoComParametro" />
+      <module name="loja-virtual-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaInsercaoEListagemComProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaInsercaoEListagemComProduto" />
+      <module name="loja-virtual-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaListagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaListagem" />
+      <module name="loja-virtual-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaListagemDeCategorias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaListagemDeCategorias" />
+      <module name="loja-virtual-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaListagem" />
+        <item itemvalue="Application.TestaListagemDeCategorias" />
+        <item itemvalue="Application.TestaInsercaoComParametro" />
+        <item itemvalue="Application.TestaInsercao" />
+        <item itemvalue="Application.TestaInsercaoEListagemComProduto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf149282-8a4c-41e0-94eb-19dfef30a291" name="Changes" comment="" />
+      <created>1632195218851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632195218851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
